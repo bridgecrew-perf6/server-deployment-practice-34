@@ -1,0 +1,26 @@
+{
+  "name": "server-deployment-practice",
+  "version": "1.0.0",
+  "description": "I'm creating and deploying a web server using CI and CD to get used to the general process of building and deploying servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karamalqinneh/server-deployment-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karamalqinneh/server-deployment-practice/issues"
+  },
+  "homepage": "https://github.com/karamalqinneh/server-deployment-practice#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "jest": "^27.5.1"
+  }
+}
