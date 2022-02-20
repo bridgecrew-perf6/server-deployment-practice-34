@@ -20,7 +20,7 @@ app.get("/data", (req, res) => {
   });
 });
 
-module.export = {
+module.exports = {
   app,
   start,
 };
