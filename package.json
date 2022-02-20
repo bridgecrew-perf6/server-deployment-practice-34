@@ -20,7 +20,10 @@
   "homepage": "https://github.com/karamalqinneh/server-deployment-practice#readme",
   "dependencies": {
     "dotenv": "^16.0.0",
-    "express": "^4.17.3",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "supertest": "^6.2.2",
     "jest": "^27.5.1"
   }
 }
