@@ -4,10 +4,10 @@ I'm creating and deploying a web server using CI and CD to get used to the gener
 
 ## Task Submission
 
-1. ![Development Server](https://karamalqinne-server-deploy-dev.herokuapp.com/)
-2. ![Production Server](https://karamalqinn-server-deploy-prod.herokuapp.com/)
-3. ![PR Link](https://github.com/karamalqinneh/server-deployment-practice/pull/3)
-4. ![Github Actions](https://github.com/karamalqinneh/server-deployment-practice/actions/workflows/node.js.yml)
+1. [Development Server](https://karamalqinne-server-deploy-dev.herokuapp.com/)
+2. [Production Server](https://karamalqinn-server-deploy-prod.herokuapp.com/)
+3. [PR Link](https://github.com/karamalqinneh/server-deployment-practice/pull/3)
+4. [Github Actions](https://github.com/karamalqinneh/server-deployment-practice/actions/workflows/node.js.yml)
 
 ## Task Notes
 
